@@ -1,77 +1,44 @@
-# A Design Space for Intelligent and Interactive Writing Assistants
+# Confabulation, Hallucinations & Overgeneration in Multilingual and Practical Settings (CHOMPS 2025)
 
-This is the repository for the website of the paper [A Design Space for Intelligent and Interactive Writing Assistants (Lee et al., CHI 2024)](https://arxiv.org/abs/2403.14117). The website is hosted at [https://writing-assistant.github.io/](https://writing-assistant.github.io/).
-
----
-
-## How to Add Your Paper
-
-***If you have paper(s) that design, use, or evaluate writing assistant(s), we would love to feature them on our website!***
-
-* If you are familiar with Github, you can create a pull request (PR) to update `./data/annotated_papers.csv` in this repository.
-* Otherwise, please fill out [this Google form](https://forms.gle/auceKL8yv9t1pgJaA).
-
-We will try to monitor the form and PR regularly, but in case there is considerable delay, please feel free to send an email to Mina.
-
-For those who have direct edit access to the repository, you can follow the steps below to update the website:
-1. Update `./data/annotated_papers.csv` with the new paper information.
-2. Run `./data/convert_json.py` to convert the CSV file to JSON.
-3. Test the website locally (`npm run dev`) to make sure the new paper is displayed correctly.
-
-#### Contact
-
-* Maintenance: [Mina Lee](https://minalee.info/) \<mnlee@uchicago.edu\>
-* Designer: [Shannon Zejiang Shen](https://www.szj.io/) \<zjshen@mit.edu\>
+The workshop will be colocated with [IJCNLP-AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/), happening on December 23-24, 2025, in Mumbai, India.
 
 ---
 
-## How to Contribute
+## Scope of the workshop
+The aim of the **CHOMPS** workshop is to find ways to mitigate one of major the hurdles that currently prevent the adoption of Large Language Models in real-world scenarios: namely, their tendency to hallucinate, i.e., produce unsupported and unverifiable text that sounds deceptively plausible. 
 
-***We welcome your feedback and contribution!***
+The workshop will explore **hallucination mitigation** in practical situations, where this mitigation is crucial: in particular,  precision-critical applications (such as those in the medical, legal and biotech domains), as well as multilingual settings (given the lack of resources available to reproduce what can be done for English in other linguistic contexts). In practice, we intend to invite works of the following (not exclusive) list of topics:
 
-#### Features in the wishlist 
-Last updated: May 6, 2024
+- Metrics, benchmarks and tools for hallucination detection; 
 
-* Add authors to the table and enable search based on authors
+- Factuality challenges in mission critical & domain-specific (e.g., medical, legal, biotech) and their consequences on societal, engineering and practical levels;
 
-#### Running the website locally
+- Mitigation strategies during inference or model training; 
 
-1. Clone the repository
+- Studies of hallucinatory and confabulatory behaviors of LLMS in cross-lingual and multilingual scenarios; 
 
-```bash
-git clone https://github.com/writing-assistant/writing-assistant.github.io.git
-cd writing-assistant.github.io
-```
+- Confabulations in language & multimodal (vision, text, speech) models.
 
-2. Install required libraries
+- Perspectives and case studies from other disciplines
 
-```bash
-npm ci
-```
+- …
 
-3. Run the development server
+## Keynote Speakers
 
-```bash
-npm run dev
-```
+_TBA_
 
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Organizers
 
-#### Development notes
+- Aman Sinha, Université de Lorraine, Nancy, France
+- Timothee Mickus, University of Helsinki, Finland
+- Raul Vazquez, University of Helsinki, Finland
+- Rohit Agarwal, UiT Tromsø, Norway
+- Ioana Buhnila, Université de Lorraine, Nancy, France
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Scientific Committee
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
----
+_TBA_
 
 ## Acknowledgements
 
-Our design and code is heavily inspired by the [shadcn/ui](https://ui.shadcn.com/) website. 
+The website is inspired by the [shadcn/ui](https://ui.shadcn.com/) website. 

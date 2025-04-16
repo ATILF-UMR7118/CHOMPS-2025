@@ -1,6 +1,6 @@
 # Confabulation, Hallucinations & Overgeneration in Multilingual and Practical Settings (CHOMPS 2025)
 
-The workshop will be colocated with [IJCNLP-AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/), happening on December 23-24, 2025, in Mumbai, India.
+The workshop is intended to be colocated with [IJCNLP-AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/), happening on December 23-24, 2025, in Mumbai, India.
 
 ---
 

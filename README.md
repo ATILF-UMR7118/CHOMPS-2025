@@ -1,6 +1,6 @@
-# <img src="chomp_5.gif" alt="drawing" width="30"/> Confabulation, Hallucinations & Overgeneration in Multilingual and Practical Settings (CHOMPS 2025)
+# <img src="chomp_5.gif" alt="drawing" width="50"/> Confabulation, Hallucinations & Overgeneration in Multilingual and Practical Settings (CHOMPS 2025)
 
-The workshop is intended to be colocated with [IJCNLP-AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/), happening on December 23-24, 2025, in Mumbai, India.
+The workshop will be colocated with [IJCNLP-AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/), happening on December 23-24, 2025, in Mumbai, India.
 
 ---
 
@@ -35,7 +35,7 @@ The workshop will explore **hallucination mitigation** in practical situations, 
 - Rohit Agarwal, UiT Tromsø, Norway
 - Ioana Buhnila, Université de Lorraine, Nancy, France
 - Patricia Schmidtova, Charles University, Prague
-- Jorg Tiedmann, University of Helsinki, Finland
+- Jörg Tiedmann, University of Helsinki, Finland
 - Dilip K. Prasad, UiT Tromsø, Norway
 
 
@@ -49,13 +49,13 @@ The workshop will explore **hallucination mitigation** in practical situations, 
 10. Mathieu Constant (ATILF, University of Lorraine) 
 12. George Drayson (UCL AI Centre) 
 13. Fanny Ducel (Université Paris-Saclay) 
-15. Ondˇrej Dušek (Charles University)  
+15. Ondřej Dušek (Charles University)  
 16. Bryan Eikema (University of Amsterdam) 
-19. Jindˇrich Helcl (Charles University) 
+19. Jindřich Helcl (Charles University) 
 20. Aditya Joshi (UNSW) 
 22. Priyanshu Kumar (Apple)
 23. Mateusz Lango (Charles University) 
-25. Jindˇrich Libovický (Charles University) 
+25. Jindřich Libovický (Charles University) 
 27. Kristýna Onderková (Charles University) 
 28. Shantipriya Parida (SiLO AI) 
 29. Alessandro Raganato (University Milano-Bicocca) 
@@ -63,7 +63,7 @@ The workshop will explore **hallucination mitigation** in practical situations, 
 33. Patricia Schmidtova (Charles University) 
 34. Vincent Segonne (Université Bretagne Sud) 
 35. Michal Štefánik (University of Helsinki) 
-36. Ondˇrej Sotoláˇr (Masaryk University) 
+36. Ondřej Stolář (Masaryk University) 
 37. Tarun Tater (University of Stuttgart) 
 40. Marco Viviani (University Milano-Bicocca) 
 43. Amelie Wuhrl (University of Copenhagen) 

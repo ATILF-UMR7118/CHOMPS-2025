@@ -21,11 +21,11 @@ The workshop will explore **hallucination mitigation** in practical situations, 
 
 - Perspectives and case studies from other disciplines
 
-- …
 
 ## <img src="cutechomp.png" alt="drawing" width="25"/> Keynote Speakers
 
-_TBA_
+1. Anna Rogers, Tenured Associate Professor, IT University of Copenhagen, Denmark
+2. Danish Pruthi, Assistant Professor, IISc Bangalore, India
 
 ## <img src="chomp_2.png" alt="drawing" width="25"/> Organizers
 
@@ -34,16 +34,44 @@ _TBA_
 - Raul Vazquez, University of Helsinki, Finland
 - Rohit Agarwal, UiT Tromsø, Norway
 - Ioana Buhnila, Université de Lorraine, Nancy, France
-- Patricia Schmidtova
+- Patricia Schmidtova, Charles University, Prague
 - Jorg Tiedmann, University of Helsinki, Finland
-- 
+- Dilip K. Prasad, UiT Tromsø, Norway
 
 
 
 ## <img src="chomp_3.png" alt="drawing" width="25"/> Scientific Committee
 
-_TBA_
+1. Priyanka Agarwal (Google Deepmind)
+2. Joseph Attieh (University of Helsinki) 
+4. Simone Balloccu (TU Darmstadt) 
+7. Yawri Carr (TU Munich) 
+10. Mathieu Constant (ATILF, University of Lorraine) 
+12. George Drayson (UCL AI Centre) 
+13. Fanny Ducel (Université Paris-Saclay) 
+15. Ondˇrej Dušek (Charles University)  
+16. Bryan Eikema (University of Amsterdam) 
+19. Jindˇrich Helcl (Charles University) 
+20. Aditya Joshi (UNSW) 
+22. Priyanshu Kumar (Apple)
+23. Mateusz Lango (Charles University) 
+25. Jindˇrich Libovický (Charles University) 
+27. Kristýna Onderková (Charles University) 
+28. Shantipriya Parida (SiLO AI) 
+29. Alessandro Raganato (University Milano-Bicocca) 
+32. Rohit Saxena (University of Edinburgh) 
+33. Patricia Schmidtova (Charles University) 
+34. Vincent Segonne (Université Bretagne Sud) 
+35. Michal Štefánik (University of Helsinki) 
+36. Ondˇrej Sotoláˇr (Masaryk University) 
+37. Tarun Tater (University of Stuttgart) 
+40. Marco Viviani (University Milano-Bicocca) 
+43. Amelie Wuhrl (University of Copenhagen) 
+44. Zhuohan Xie (MBZUAI) 
+46. Laura Zanella (POSOS) 
 
 ## <img src="chomp.png" alt="drawing" width="25"/> Acknowledgements
 
 The website is inspired by the [shadcn/ui](https://ui.shadcn.com/) website. 
+
+Emojis source website : [Slackmojis](https://slackmojis.com/) website.
